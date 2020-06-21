@@ -10,8 +10,11 @@ IF YOU ALREADY HAVE PANDAS SCIKIT-LEARN AND NUMPY ; IGNORE STEP 2
 2) install numpy,pandas and scikit-learn packages
 
 a)sudo apt-get install python-pip
+
 b)sudo pip install numpy
+
 c)sudo pip install pandas
+
 d)sudo pip install -U scikit-learn
 
 
